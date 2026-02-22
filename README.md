@@ -1,3 +1,2 @@
-# first-repo
-Machine-Learning-Practice
+# Machine-Learning-Practice
 
